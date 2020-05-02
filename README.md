@@ -1,5 +1,9 @@
-# first
-my first repository
-This is my first repository. Trying to figure this shit out on my own during this pandemic is a pain in the ass. 
-What's fun in things that aren't hard though?
-That's what she said
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>I hope this works!</title>
+    <body>
+    <p>This is my first page that uses a git repository to host the page.</p>
+    <p>Fingers crossed this works</p>
+  </head>
+</html>
